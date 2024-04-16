@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mahesh Ghumare</h1>
 <h3 align="center">I am a passionate tech enthusiast and have recently picked up an intrest of exploring new technologies and build softwares using them.</h3>
 
-- 🔭 I’m currently working on [Trading_Strategy_System](https://github.com/MaheshG11/Trading_Strategy_System)
+- 🔭 I’m currently working on [Trading Strategy System](https://github.com/MaheshG11/Trading_Strategy_System)
 
 - 🌱 I’m currently learning **Docker, Kubernetes and Machine Learning.**
 
 - 👯 I’m looking to collaborate on **Projects that involves Machine Learning, Backend and Cloud**
 
-- 🤝 I’m looking for help with [Trading_Strategy_System](https://github.com/MaheshG11/Trading_Strategy_System)
+- 🤝 I’m looking for help with [Trading Strategy System](https://github.com/MaheshG11/Trading_Strategy_System)
 
 - 📫 How to reach me **maheshghumareofficial@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qqo5FRb2l-gCVftg4qVxG8A0h81sXpXg/view?usp=drive_link](https://drive.google.com/file/d/1qqo5FRb2l-gCVftg4qVxG8A0h81sXpXg/view?usp=drive_link)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1qqo5FRb2l-gCVftg4qVxG8A0h81sXpXg/view?usp=drive_link)
 
 - ⚡ Fun fact **I find lame jokes funny**
 
