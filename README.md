@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh Ghumare</h1>
-<h3 align="center">I am a passionate tech enthusiast and have recently picked up an intrest of exploring new technologies and build softwares using them.</h3>
+<h3 align="center"> Tech enthusiast</h3>
 
 - 🔭 I’m currently working on [Trading Strategy System](https://github.com/MaheshG11/Trading_Strategy_System)
 
