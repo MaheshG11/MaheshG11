@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahesh Ghumare</h1>
 <h3 align="center"> Tech Enthusiast</h3>
 
-- 🔭 I’m currently working on [Trading Strategy System](https://github.com/MaheshG11/Trading_Strategy_System)
+<!-- - 🔭 I’m currently working on [Trading Strategy System](https://github.com/MaheshG11/Trading_Strategy_System)-->
 
 - 🌱 I’m currently learning **Docker, Kubernetes and Machine Learning.**
 
 - 👯 I’m looking to collaborate on **Projects that involves Machine Learning, Backend and Cloud**
 
-- 🤝 I’m looking for help with [Trading Strategy System](https://github.com/MaheshG11/Trading_Strategy_System)
+<!-- - 🤝 I’m looking for help with [Trading Strategy System](https://github.com/MaheshG11/Trading_Strategy_System) -->
 
 - 📫 How to reach me **maheshghumareofficial@gmail.com**
 
