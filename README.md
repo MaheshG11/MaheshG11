@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahesh Ghumare</h1>
 <h3 align="center"> Tech Enthusiast</h3>
 
-<!-- - 🔭 I’m currently working on [Trading Strategy System](https://github.com/MaheshG11/Trading_Strategy_System)-->
+- 🔭 Just finished [Distributed key-value store]([https://github.com/MaheshG11/Trading_Strategy_System](https://github.com/MaheshG11/Distributed-Key-Value-Store))
 
-- 🌱 I’m currently learning **Distributed Systems.**
+- 🌱 I’m currently deepening my distributed systems understanding. 
 
-<!--- 👯 I’m looking to collaborate on **Projects that involves Machine Learning, Backend and Cloud**-->
+- 👯 I’m looking to collaborate on **Projects that involves high performance Distribured Systems**
 
- - 🤝 I’m looking for help with [MapReduce](https://github.com/MaheshG11/MapReduce)
+<!-- - 🤝 I’m looking for help with [MapReduce](https://github.com/MaheshG11/MapReduce) -->
 
 - 📫 How to reach me **maheshghumareofficial@gmail.com**
 
