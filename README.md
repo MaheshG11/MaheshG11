@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh Ghumare</h1>
-<h3 align="center"> Tech Enthusiast</h3>
+<h3 align="center"> Exploring High Performance Distributed Systems </h3>
 
 - 🔭 Just finished [Distributed key-value store]([https://github.com/MaheshG11/Trading_Strategy_System](https://github.com/MaheshG11/Distributed-Key-Value-Store))
 
