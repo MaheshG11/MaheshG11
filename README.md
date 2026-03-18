@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mahesh Ghumare</h1>
-<h3 align="center"> Exploring High Performance Distributed Systems </h3>
+<h3 align="center"> Distributed Systems and low latency </h3>
 
-- 🔭 Just finished [Distributed key-value store]([https://github.com/MaheshG11/Trading_Strategy_System](https://github.com/MaheshG11/Distributed-Key-Value-Store))
+- 🌱 Mostly Spending my time on low latency, distributed systems and football
 
-- 🌱 I’m currently deepening my distributed systems understanding. 
 
-- 👯 I’m looking to collaborate on **Projects that involves high performance Distribured Systems**
-
-<!-- - 🤝 I’m looking for help with [MapReduce](https://github.com/MaheshG11/MapReduce) -->
 
 - 📫 How to reach me **maheshghumareofficial@gmail.com**
 
 <!-- - 📄 Know about my experiences [Here](https://drive.google.com/file/d/1qqo5FRb2l-gCVftg4qVxG8A0h81sXpXg/view?usp=drive_link) -->
 
-- ⚡ Fun fact **I find lame jokes funny**
+- ⚡ Let's do something fun 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
