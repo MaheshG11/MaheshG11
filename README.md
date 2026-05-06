@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mahesh Ghumare</h1>
-<h3 align="center"> Distributed Systems and low latency </h3>
 
 - 🌱 Mostly Spending my time on low latency, distributed systems and football
 
